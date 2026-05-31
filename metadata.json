@@ -1,0 +1,6 @@
+{
+  "name": "Dollar to Taka Converter",
+  "description": "Convert USD to BDT and BDT to USD with live exchange rates, manual overrides, and offline conversion history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
